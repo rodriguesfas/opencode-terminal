@@ -1,0 +1,6 @@
+{
+  "name": "opencode-terminal-plugin",
+  "version": "1.0.0",
+  "description": "OpenCode plugin to open a terminal in the current workspace",
+  "main": "index.js"
+}
